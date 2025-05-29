@@ -1,4 +1,4 @@
-# Tetris on C++ and Raylib
+# Tetris in C++ and Raylib
 Result of following the <a href="https://www.youtube.com/watch?v=wVYKG_ch4yM">Tetris C++ Game Tutorial</a> with minor changes such as:
 * game play gets faster as the score increases,
 * sounds are closer to original game,
